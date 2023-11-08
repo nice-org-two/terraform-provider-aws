@@ -1,7 +1,7 @@
 repo_name: nice-org-two/terraform-provider-aws
-report_id: 75961e4e51edd1a0aeb02bc015a8635e
+report_id: 93fbb1b8d3c16f772faa962440ca9a47
 repo_type: Public
-timestamp: '2023-11-07T13:07:42+00:00'
+timestamp: '2023-11-08T18:39:08+00:00'
 requested_by: lagerfeuer
 provider: github
 branch: main
@@ -16,7 +16,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,7 +26,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -35,7 +35,7 @@ tools:
   hosted_saas: true
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -45,7 +45,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/993/pUBY5pVj.png
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -55,7 +55,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -64,7 +64,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
-  imageURL: https://img.stackshare.io/service/3693/smarty.png
+  image_url: https://img.stackshare.io/service/3693/smarty.png
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -73,7 +73,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
-  imageURL: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
   detection_source: tools/tfsdk2fw/go.mod
 - name: React on Rails Pro
   description: Go beyond open-source React on Rails to optimize performance, save
@@ -85,7 +85,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
-  imageURL: https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png
+  image_url: https://img.stackshare.io/service/21349/default_094e27ddc20e25f63cdcb9b7eda1dda9c35f2560.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Spectre.css
@@ -96,7 +96,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
-  imageURL: https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg
+  image_url: https://img.stackshare.io/service/21978/default_43fb9ca37debcb28caad4f2c831e072783441496.jpg
   detection_source: tools/tfsdk2fw/go.mod
 - name: ent
   description: An entity framework for Go
@@ -107,7 +107,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
-  imageURL: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Amazon Managed Workflows for Apache Airflow
@@ -119,7 +119,7 @@ tools:
   hosted_saas: true
   category: Data Stores
   sub_category: Workflow Manager
-  imageURL: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
+  image_url: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Data Generator for Oracle
@@ -130,7 +130,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Database Tools
-  imageURL: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
+  image_url: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Data Warehouses by Freshpaint
@@ -141,7 +141,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Big Data as a Service
-  imageURL: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
+  image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Jitsu
@@ -153,7 +153,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Big Data as a Service
-  imageURL: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
+  image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Parity
@@ -164,7 +164,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Blockchain
-  imageURL: https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg
+  image_url: https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Quickwork
@@ -175,7 +175,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: API Tools
-  imageURL: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
+  image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: dbForge Data Compare for MySQL
@@ -186,7 +186,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Database Tools
-  imageURL: https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png
+  image_url: https://img.stackshare.io/service/21194/default_39d248dbc488d47c5dc8749e6b46f12697de376e.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: dbForge Query Builder for MySQL
@@ -197,7 +197,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Database Tools
-  imageURL: https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png
+  image_url: https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: dbForge Schema Compare for Redshift/PostgreSQL
@@ -208,7 +208,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Database Tools
-  imageURL: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
+  image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: dbForge Search for SQL Server
@@ -220,7 +220,7 @@ tools:
   hosted_saas: false
   category: Data Stores
   sub_category: Database Tools
-  imageURL: https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png
+  image_url: https://img.stackshare.io/service/21187/default_ad21b860d7b33a39205da4940637922485e52b8e.png
   detection_source_url: go.sum
   detection_source: go.mod
 - name: Docker
@@ -231,7 +231,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
-  imageURL: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
 - name: Dockter
   description: A low-overhead, open-source Docker log management tool
@@ -242,7 +242,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Container Tools
-  imageURL: https://img.stackshare.io/service/21619/default_b1c7a5e89d22a48d20cf2e75ba77e8e26284275e.jpg
+  image_url: https://img.stackshare.io/service/21619/default_b1c7a5e89d22a48d20cf2e75ba77e8e26284275e.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Earthly
@@ -254,7 +254,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Container Tools
-  imageURL: https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg
+  image_url: https://img.stackshare.io/service/21148/default_4518d3c5a1f763ea9eb5a5959847ac06b2b3cbe5.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Git
@@ -264,7 +264,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -273,7 +273,7 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/11563/actions.png
+  image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/yamllint.yml"
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
@@ -284,7 +284,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Microservices Tools
-  imageURL: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: mkdocs.yml
 - name: JBehave
   description: A framework for Behaviour-Driven Development (BDD)
@@ -295,7 +295,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
-  imageURL: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
+  image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: ManageEngine OpManager
@@ -306,7 +306,7 @@ tools:
   hosted_saas: false
   category: Monitoring
   sub_category: Network Monitoring
-  imageURL: https://img.stackshare.io/service/21358/default_8c3aa81460935ebdae05c8c9783dffe0acc1278c.jpg
+  image_url: https://img.stackshare.io/service/21358/default_8c3aa81460935ebdae05c8c9783dffe0acc1278c.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: OpenYurt
@@ -318,7 +318,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Container Tools
-  imageURL: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
+  image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: skaff/go.mod
 - name: Prometheus
@@ -330,7 +330,7 @@ tools:
   hosted_saas: false
   category: Monitoring
   sub_category: Monitoring Tools
-  imageURL: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
   detection_source: ".ci/tools/go.mod"
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
@@ -341,7 +341,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
-  imageURL: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: examples/two-tier/main.tf
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
@@ -352,7 +352,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Package Managers
-  imageURL: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: examples/two-tier/main.tf
 - name: Testify
   description: A toolkit with common assertions and mocks that plays nicely with the
@@ -363,7 +363,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
-  imageURL: https://img.stackshare.io/service/8695/stretchr.png
+  image_url: https://img.stackshare.io/service/8695/stretchr.png
   detection_source: ".ci/tools/go.mod"
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -373,7 +373,7 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source: ".ci/providerlint/vendor/google.golang.org/appengine/.travis.yml"
 - name: ZyXel
   description: Your Networking Ally
@@ -383,7 +383,7 @@ tools:
   hosted_saas: false
   category: Monitoring
   sub_category: Networking Hardware
-  imageURL: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
+  image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: npm
@@ -393,7 +393,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
-  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: examples/api-gateway-websocket-chat-app/sendmessage/package.json
 - name: Platform9 Managed Bare Metal
   description: Build Bare Metal Clouds Anywhere Instantly
@@ -403,7 +403,7 @@ tools:
   hosted_saas: false
   category: Application Hosting
   sub_category: Cloud Hosting
-  imageURL: https://img.stackshare.io/service/21776/default_f27c40bb1134c9bc82c4862853824f8983cb377d.jpg
+  image_url: https://img.stackshare.io/service/21776/default_f27c40bb1134c9bc82c4862853824f8983cb377d.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Amazon Lumberyard
@@ -414,7 +414,7 @@ tools:
   hosted_saas: true
   category: Languages & Frameworks
   sub_category: Game Development
-  imageURL: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
+  image_url: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: LaunchMatic
@@ -426,7 +426,7 @@ tools:
   hosted_saas: false
   category: Assets and Media
   sub_category: Screenshots as a Service
-  imageURL: https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png
+  image_url: https://img.stackshare.io/service/21135/default_59aa10a4d0de8cc95af630b37d93ffdd04bc93fd.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Mojito
@@ -438,7 +438,7 @@ tools:
   hosted_saas: false
   category: Analytics
   sub_category: A/B Testing Analytics
-  imageURL: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
+  image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Simple Analytics
@@ -449,7 +449,7 @@ tools:
   hosted_saas: false
   category: Analytics
   sub_category: General Analytics
-  imageURL: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
+  image_url: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: UserExperior
@@ -461,7 +461,7 @@ tools:
   hosted_saas: false
   category: Analytics
   sub_category: Heatmap Analytics
-  imageURL: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
+  image_url: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: AppConvertly.com
@@ -472,7 +472,7 @@ tools:
   hosted_saas: false
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
-  imageURL: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
+  image_url: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Appzi
@@ -484,7 +484,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Feedback Widget
-  imageURL: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
+  image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Axiell Collections
@@ -492,7 +492,7 @@ tools:
   version: 0.4.14
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
+  image_url: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Blueground
@@ -504,7 +504,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Property Management
-  imageURL: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
+  image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: CALIPIO Recorder
@@ -513,7 +513,7 @@ tools:
   version: 1.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
+  image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Content Discovery Feed
@@ -524,7 +524,7 @@ tools:
   hosted_saas: false
   category: Collaboration
   sub_category: Activity Feeds as a Service
-  imageURL: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
+  image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: DAGsHub
@@ -536,7 +536,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Data Science Tools
-  imageURL: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
+  image_url: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: DrugsDisclosed
@@ -548,7 +548,7 @@ tools:
   hosted_saas: false
   category: Application Utilities
   sub_category: Healthcare
-  imageURL: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
+  image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Dutypare
@@ -557,7 +557,7 @@ tools:
   version: 0.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
+  image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: EmailOctopus
@@ -568,7 +568,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Email Marketing
-  imageURL: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
+  image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: FinCRM
@@ -579,7 +579,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: CRM
-  imageURL: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
+  image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: skaff/go.mod
 - name: Financial Cents
@@ -590,7 +590,7 @@ tools:
   hosted_saas: false
   category: Back Office
   sub_category: Accounting
-  imageURL: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
+  image_url: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: IGMétricaPRO5
@@ -601,7 +601,7 @@ tools:
   hosted_saas: false
   category: Back Office
   sub_category: Expense Management
-  imageURL: https://img.stackshare.io/service/21317/default_73ca6ebd8c497de077074d77950b7e196d533232.png
+  image_url: https://img.stackshare.io/service/21317/default_73ca6ebd8c497de077074d77950b7e196d533232.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: InVision Studio
@@ -612,7 +612,7 @@ tools:
   hosted_saas: false
   category: Design
   sub_category: Graphic Design
-  imageURL: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
+  image_url: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: JetBrains Toolbox
@@ -620,7 +620,7 @@ tools:
   version: 0.3.1
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
+  image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Layers Education
@@ -629,7 +629,7 @@ tools:
   version: 1.15.78
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
+  image_url: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Modyo Customer Portals
@@ -640,7 +640,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Customer Profiles
-  imageURL: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
+  image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: NextGen Connect
@@ -651,7 +651,7 @@ tools:
   hosted_saas: false
   category: Application Utilities
   sub_category: Healthcare
-  imageURL: https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg
+  image_url: https://img.stackshare.io/service/21261/default_d293f99ced885f572a3f940a74fbe1f211261a96.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: NoteCandy
@@ -659,14 +659,14 @@ tools:
   website_url: https://www.notecandy.com
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
+  image_url: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
   detection_source: tools/tfsdk2fw/go.mod
 - name: OGCAPI
   website_url: https://ogcapi.ogc.org/
   version: 1.1.1
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
+  image_url: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Outflash
@@ -675,7 +675,7 @@ tools:
   version: 1.67.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
+  image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: PodRoom
@@ -686,7 +686,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Customer Community
-  imageURL: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
+  image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Portfoleon
@@ -697,7 +697,7 @@ tools:
   hosted_saas: false
   category: Collaboration
   sub_category: Project Management
-  imageURL: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
+  image_url: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
   detection_source_url: go.sum
   detection_source: tools/tfsdk2fw/go.mod
 - name: PyCodeQual
@@ -705,7 +705,7 @@ tools:
   version: 1.1.1
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
+  image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Quickwork Journey Builder
@@ -713,7 +713,7 @@ tools:
   version: 0.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
+  image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Savio.io
@@ -724,7 +724,7 @@ tools:
   hosted_saas: false
   category: Support, Sales, and Marketing
   sub_category: Feedback Widget
-  imageURL: https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png
+  image_url: https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Solati
@@ -735,7 +735,7 @@ tools:
   hosted_saas: false
   category: Back Office
   sub_category: Business Process Management
-  imageURL: https://img.stackshare.io/service/21306/default_745b6ac852730d7ce9c6b73785d3f5936c7abd7a.jpg
+  image_url: https://img.stackshare.io/service/21306/default_745b6ac852730d7ce9c6b73785d3f5936c7abd7a.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Stagy
@@ -744,7 +744,7 @@ tools:
   version: 1.1.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
+  image_url: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: Stormkit.io
@@ -754,7 +754,7 @@ tools:
   version: 1.12.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21627/default_a5ddc88cc1e05e790fd145e98b2eaf4c1f47e105.png
+  image_url: https://img.stackshare.io/service/21627/default_a5ddc88cc1e05e790fd145e98b2eaf4c1f47e105.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Ubuntu
@@ -764,7 +764,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Operating Systems
-  imageURL: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
   detection_source: ".ci/providerlint/vendor/golang.org/x/net/http2/Dockerfile"
 - name: Undersend
   description: Send activities-based emails to your users to increase engagement and
@@ -773,7 +773,7 @@ tools:
   version: 1.8.6
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21250/default_fce6264bf681941b3ae29f7332544704632b6a4a.png
+  image_url: https://img.stackshare.io/service/21250/default_fce6264bf681941b3ae29f7332544704632b6a4a.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: Upfeed
@@ -782,7 +782,7 @@ tools:
   version: 1.4.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
+  image_url: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: WSL
@@ -793,7 +793,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Operating Systems
-  imageURL: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
+  image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: ZyWall
@@ -801,7 +801,7 @@ tools:
   version: 0.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
+  image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: arrow-kt
@@ -809,7 +809,7 @@ tools:
   version: 0.0.3
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
+  image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: dbForge Data Generator for SQL Server
@@ -819,7 +819,7 @@ tools:
   version: 0.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
+  image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: firebase remote config
@@ -827,7 +827,7 @@ tools:
   version: 0.26.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
+  image_url: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: 'go '
@@ -835,14 +835,14 @@ tools:
   website_url: https://golang.org/
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
   detection_source: ".ci/providerlint/helper/awsprovidertype/keyvaluetags/funcs.go"
 - name: meml
   website_url: https://github.com/fivnex/meml
   version: 0.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
+  image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: nootiz
@@ -852,7 +852,7 @@ tools:
   version: 1.7.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
+  image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: reZme
@@ -861,7 +861,7 @@ tools:
   version: 1.4.1
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
+  image_url: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: rennflow
@@ -869,7 +869,7 @@ tools:
   version: 1.0.0
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
+  image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: sktime
@@ -882,7 +882,7 @@ tools:
   hosted_saas: false
   category: Application Utilities
   sub_category: Machine Learning Tools
-  imageURL: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
+  image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: apiversions
@@ -894,7 +894,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: clientcmd/api
@@ -906,7 +906,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: dockerclient
@@ -918,7 +918,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: fsnotify
@@ -930,7 +930,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: gensupport
@@ -942,7 +942,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: go-restful
@@ -954,7 +954,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: go-uuid/uuid
@@ -965,7 +965,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: gofuzz
@@ -977,7 +977,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: gojsonpointer
@@ -989,7 +989,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: gomega
@@ -1001,7 +1001,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: govcloudair
@@ -1013,7 +1013,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: hcl
@@ -1025,7 +1025,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: httplex
@@ -1037,7 +1037,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: iterator
@@ -1049,7 +1049,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/tools/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: json-patch
@@ -1062,7 +1062,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: mapstructure
@@ -1074,7 +1074,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: pbkdf2
@@ -1086,7 +1086,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: pkcs11
@@ -1098,7 +1098,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: pkg/apis/extensions
@@ -1110,7 +1110,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: pp
@@ -1122,7 +1122,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: properties
@@ -1134,7 +1134,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: tools/tfsdk2fw/go.mod
 - name: protocol/ec2query
@@ -1146,7 +1146,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: tools/tfsdk2fw/go.mod
 - name: registry/service
@@ -1158,7 +1158,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: tools/tfsdk2fw/go.mod
 - name: swift
@@ -1171,7 +1171,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: testify/mock
@@ -1184,7 +1184,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
 - name: virtualmachinedisk
@@ -1196,7 +1196,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: Go Modules Packages
-  imageURL: https://img.stackshare.io/package/go-packages/image.png
+  image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
 - name: aws-sdk
@@ -1208,7 +1208,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
   detection_source_url: examples/api-gateway-websocket-chat-app/onconnect/package.json
   detection_source: examples/api-gateway-websocket-chat-app/sendmessage/package.json
   vulnerabilities:
