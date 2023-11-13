@@ -136,7 +136,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/terraform-provider-aws](https://github.com/nice-org-two/terraform-provider-aws)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|112<br/>Tools used|11/10/23 <br/>Report generated|
+|112<br/>Tools used|11/13/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -422,7 +422,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/stretchr/testify">Testify</a></sub>
   <br>
-  <sub></sub>
+  <sub>v1.2.2</sub>
 </td>
 
 <td align='center'>
