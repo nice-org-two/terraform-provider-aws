@@ -1,7 +1,7 @@
 repo_name: nice-org-two/terraform-provider-aws
-report_id: 88a1daaa32375120a92c1ce1950a3572
+report_id: 0560bbc3fbe5df99efdc5db5b613ed0f
 repo_type: Public
-timestamp: '2023-11-10T16:43:45+00:00'
+timestamp: '2023-11-13T18:19:55+00:00'
 requested_by: lagerfeuer
 provider: github
 branch: main
@@ -408,15 +408,17 @@ tools:
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
   website_url: https://github.com/stretchr/testify
+  version: 1.2.2
   license: MIT
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: ".ci/providerlint/go.sum"
   detection_source: ".ci/tools/go.mod"
   last_updated_by: dependabot[bot]
-  last_updated_on: 2022-07-19 06:05:04.000000000 Z
+  last_updated_on: 2022-10-10 06:47:53.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
