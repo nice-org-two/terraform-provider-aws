@@ -138,7 +138,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/terraform-provider-aws](https://github.com/nice-org-two/terraform-provider-aws)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|03/17/24 <br/>Report generated|
+|111<br/>Tools used|03/28/24 <br/>Report generated|
 |------|------|
 </div>
 
