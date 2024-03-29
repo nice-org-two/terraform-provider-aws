@@ -1,8 +1,8 @@
 repo_name: nice-org-two/terraform-provider-aws
-report_id: a8d7386b0cf00575bf393588dcdcae17
+report_id: fe02775456988a6413d98c0e4cebd3b3
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-28T09:58:40+00:00'
+timestamp: '2024-03-29T06:27:52+00:00'
 requested_by: lagerfeuer
 provider: github
 branch: main
